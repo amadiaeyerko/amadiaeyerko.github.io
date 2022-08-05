@@ -1,0 +1,59 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Amadia & Yerko"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+disableLanguages = ["fr"]
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/caressofsteel/"
+  twitter = "https://twitter.com/caressofsteel_"
+  email = "caressofsteel@protonmail.com"
+  instagram = "https://instagram.com"
+  linkedin = "https://linkedin.com"
+  telegram = "https://telegram.org"
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    LanguageCode = "en"
+    staticDir = "/static"
+
+
+  [languages.de]
+    languageName = "German"
+    weight = 2
+    LanguageCode = "de"
+    staticDir = "/static"
+
+
+#[[languages.en.menu.main]]
+#name = "home"
+#url = "/"
+#
+#[[languages.de.menu.main]]
+#name = "about me"
+#url = "/about"

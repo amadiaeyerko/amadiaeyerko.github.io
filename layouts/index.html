@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+		{{ if .IsTranslated }}
+		<div class="inline-block pl-2 ml-2 border-l border-gray-600">
+			{{ range .Translations }}
+			<a href="{{ .Permalink }}">
+				<span class="font-bold">
+					{{ .Language | upper }}
+				</span>
+			</a>
+			{{ end }}
+		</div>
+		{{ end }}
+
+    {{ partial "banner" (index ( index site.Data site.LanguageCode ) "banner") }}
+	{{ partial "spotlight" (index ( index site.Data site.LanguageCode ) "spotlight1") }}
+	{{ partial "spotlight" (index ( index site.Data site.LanguageCode ) "spotlight2") }}
+	{{ partial "spotlight" (index ( index site.Data site.LanguageCode ) "spotlight3") }}
+	{{ partial "gallery" (index ( index site.Data site.LanguageCode ) "gallery") }}
+	{{ partial "items" (index ( index site.Data site.LanguageCode ) "items") }}
+	{{ partial "elements" . }}
+	{{ partial "elements_reference" . }}
+	{{ partial "template/footer" . }}
+
+{{ end }}
