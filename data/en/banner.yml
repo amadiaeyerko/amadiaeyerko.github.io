@@ -5,9 +5,9 @@ subtitle: |
 
   Sharing our passion for forró 
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+ Hello and a warm welcome - seja bem-vind@! On this page we would like to share our world of forró with you, hoping to inspire your own dance and creativity. Dance is a continuous dialogue between people - in this spirit we are looking forward to engaging with all forro-dancers (forrozeir@s) and those to become, enjoying the beauty of musicality, dance and improvisation altogether.  
 button:
-  label : "Get Started"
+  label : "Discover Forró"
   link : "#first"
 image : "images/banner.jpg"
 
