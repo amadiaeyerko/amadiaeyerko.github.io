@@ -1,17 +1,11 @@
 {{ define "main" }}
 
-
-
     {{ partial "template/header" . }}
-
     {{ partial "banner" (index ( index site.Data site.LanguageCode ) "banner") }}
 	{{ partial "spotlight" (index ( index site.Data site.LanguageCode ) "spotlight1") }}
 	{{ partial "spotlight" (index ( index site.Data site.LanguageCode ) "spotlight2") }}
 	{{ partial "spotlight" (index ( index site.Data site.LanguageCode ) "spotlight3") }}
 	{{ partial "gallery" (index ( index site.Data site.LanguageCode ) "gallery") }}
-<!-- 	{{ partial "form" (index ( index site.Data site.LanguageCode ) "form") }} -->
-<!-- 	{{ partial "elements" . }} -->
-<!-- 	{{ partial "elements_reference" . }} -->
 	{{ partial "template/footer" . }}
 
 {{ end }}
