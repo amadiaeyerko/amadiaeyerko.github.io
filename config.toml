@@ -27,12 +27,17 @@ defaultContentLanguageInSubdir = false
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  #github = "https://github.com/caressofsteel/"
+  #twitter = "https://twitter.com/caressofsteel_"
+  email = "amadiaeyerko@gmail.com"
+  instagram = "https://instagram.com/amadiaeyerko"
+  #linkedin = "https://linkedin.com"
+  #telegram = "https://telegram.org"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 [languages]
@@ -40,14 +45,16 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     LanguageCode = "en"
-    staticDir = "/static"
+    staticDir = "static"
+    contentDir = "content/en"
 
 
   [languages.de]
     languageName = "German"
     weight = 2
     LanguageCode = "de"
-    staticDir = "/static"
+    staticDir = "static"
+    contentDir = "content/de"
 
 
 #[[languages.en.menu.main]]
