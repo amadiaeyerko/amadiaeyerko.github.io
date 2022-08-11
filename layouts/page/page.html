@@ -2,30 +2,26 @@
 
 {{ partial "template/header" . }}
 
+<section class="wrapper style1 align-center">
+  <div class="inner">
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Description }}</p>
+    <div class="index align-left">
 
+      <!-- Text -->
+      <section>
+        <header>
+          <h3>{{ .Title }}</h3>
+        </header>
+        <div class="content">
 
-                <section class="wrapper style1 align-center">
-                    <div class="inner">
-                        <h2>{{ .Title }}</h2>
-                        <p>{{ .Description }}</p>
-                        <div class="index align-left">
+          {{ .Content }}
 
-                            <!-- Text -->
-                                <section>
-                                    <header>
-                                        <h3>{{ .Title }}</h3>
-                                    </header>
-                                    <div class="content">
-
-                                        {{ .Content }}
-
-                                    </div>
-                                </section>
-                        </div>
-                    </div>
-                </section>
-
-
+        </div>
+      </section>
+    </div>
+  </div>
+</section>
 
 {{ partial "template/footer" . }}
 

@@ -3,8 +3,17 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Spotlight"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  Forró ist ein Musikstil und Paartanz aus dem Nordosten Brasiliens. Er ist heute in ganz Brasilien bekannt und beliebt und zieht immer mehr Tanzbegeisterte in der ganzen Welt an. Die typischen Instrumente des traditionellen Forró, auch Forró pé-de-serra genannt, sind die Zabumba (brasilianische Basstrommel), die Sanfona (brasilianisches Akkordeon) und die Triangel. Die Musikrichtung umfasst verschiedene Rhythmen wie Baião, Xote, Xaxado oder Arrasta-Pé. 
+
+                        <ul class="actions">
+                            <li><a href="/forro" class="button">Learn more about Forró</a></li>
+                        </ul>
+   
+  Enjoy dancing with ...
+  
+                        <ul class="actions">
+                            <li><a href="#amadia" class="button">Amadia</a></li>
+                            <li>&</li>
+                            <li><a href="#yerko" class="button">Yerko</a></li>
+                        </ul>
 image: "images/spotlight01.jpg"
