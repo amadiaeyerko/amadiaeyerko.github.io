@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
-style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in color7"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in color1 invert"
 id: "yerko"
 title : "Yerko"
 content: |
-  Hi, my name is Yerko, ...
+  Hello! my name is Yerko, and my story with Forró started with the idea of watching a samba or bosa nova concert in a bar. To my surprise, there was a cozy environment of people dancing to an unknown rhythm to me. It appears that the band was Banda Caburé, and one of the dancers told me that the music is called Forró (now the DJ of Forró no Vinyl). Since then, I have learned how to dance it thanks to lovely people. Now, I would like to share the dance with you.
 button: 
   label: "Dance with us"
   link: "#gallery"

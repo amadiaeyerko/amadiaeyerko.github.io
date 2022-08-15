@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
-style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in color3"
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "amadia"
 title : "Amadia"
 content: |
-  Hi, my name is Amadia, ...
+  Hello! My name is Amadia and over the years, dancing forró has become one of my favourite activities. I was born in Vienna and have lived in the Netherlands, Scotland, Belgium and Brazil. When I was young my mom introduced me to belly dancing and Middle Eastern folk dances. Ever since I have continued dancing, while discovering new rhythms and styles. Along the years, I have danced salsa, kizomba, bachata and funk.
 button: 
   label: "Dance with us"
   link: "#gallery"
