@@ -5,6 +5,6 @@ title : "Amadia"
 content: |
   Hallo! Ich heiße Amadia und bin aus Wien. Meine Verbindung zum Tanz hat schon früh angefangen, nämlich als mich in meiner Kindheit meine Mutter in die Welt des Bauchtanz und der Volkstänze des Nahen Ostens einführte. Seitdem habe ich nicht aufgehört zu tanzen und indessen weitere Rhythmen und Stile für mich entdeckt. Mit Forró bin ich zum ersten Mal auf einer Feier im brasilianischen Alto Paraíso de Goiás in Berührung gekommen, wo mich die festliche Atmosphäre, die Farben, die Musik und der Tanz sofort in ihren Bann zogen. Im Laufe der Jahre ist das Forró-Tanzen zu einer meiner liebsten Freizeitbeschäftigungen geworden.
 button: 
-  label: "Dance with us"
+  label: "dance_with_us"
   link: "#gallery"
 image: "images/amadia.jpg"

@@ -5,15 +5,7 @@ title : "Forró"
 content: |
   Forró ist ein Musikstil und Paartanz aus dem Nordosten Brasiliens. Er ist heute in ganz Brasilien bekannt und beliebt und zieht immer mehr Tanzbegeisterte in der ganzen Welt an. Die typischen Instrumente des traditionellen Forró, auch Forró pé-de-serra genannt, sind die Zabumba (brasilianische Basstrommel), die Sanfona (brasilianisches Akkordeon) und die Triangel. Die Musikrichtung umfasst verschiedene Rhythmen wie Baião, Xote, Xaxado oder Arrasta-Pé. 
 
-                        <ul class="actions">
-                            <li><a href="/forro" class="button">Learn more about Forró</a></li>
-                        </ul>
-   
-  Enjoy dancing with ...
-  
-                        <ul class="actions">
-                            <li><a href="#amadia" class="button">Amadia</a></li>
-                            <li>&</li>
-                            <li><a href="#yerko" class="button">Yerko</a></li>
-                        </ul>
+button:
+  label: "learn_more_about_forro"
+  link: "/forro"
 image: "images/spotlight01.jpg"

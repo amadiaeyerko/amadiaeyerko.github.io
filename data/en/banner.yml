@@ -6,7 +6,7 @@ subtitle: |
 content : |
  Hello and a warm welcome - seja bem-vind@! On this page we would like to share our world of forró with you, hoping to inspire your own dance and creativity. Dance is a continuous dialogue between people - in this spirit we are looking forward to engaging with all forró-dancers (forrozeir@s) and those to become, enjoying the beauty of musicality, dance and improvisation altogether.  
 button:
-  label : "Discover Forró"
+  label : "discover_forro" 
   link : "#first"
 image : "images/banner.jpg"
 

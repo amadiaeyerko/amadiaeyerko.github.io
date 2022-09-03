@@ -62,6 +62,16 @@ It is the Romanticism of old recordings of Forró.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j4Pu7fVBXAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## Dance with us
+
+Enjoy dancing with ...
+  
+<ul class="actions">
+<li><a href="/#amadia" class="button">Amadia</a></li>
+<li>&</li>
+<li><a href="/#yerko" class="button">Yerko</a></li>
+</ul>
+
 
 
 

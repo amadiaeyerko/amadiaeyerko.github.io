@@ -33,6 +33,7 @@ defaultContentLanguageInSubdir = false
   instagram = "https://instagram.com/amadiaeyerko"
   #linkedin = "https://linkedin.com"
   #telegram = "https://telegram.org"
+  spotify = "https://open.spotify.com/playlist/5y7nXm1AvtLZLweCqWNTVp?si=feb2b1456bd44b65"
 
 [markup]
   [markup.goldmark]
